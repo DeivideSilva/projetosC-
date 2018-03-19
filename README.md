@@ -1,2 +1,2 @@
-# projetosC-
-pasta contendo os projetos desenvolvidos em c#
+# projetos em linguagem C
+pasta contendo projetos desenvolvidos em C
